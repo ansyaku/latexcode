@@ -5,3 +5,5 @@ Simbol-Simbol Dalam Teori Mikroekonomi
 |-----|--------|
 |$$\prec$$|3       |
 |$$\succ$$ |12      |
+
+$$\succ$$
